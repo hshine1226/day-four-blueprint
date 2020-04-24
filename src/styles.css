@@ -1,4 +1,15 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
+.bigScreen {
+  background-color: #1abc9c;
+}
+
+.midiumScreen {
+  background-color: #2ecc71;
+}
+
+.smallScreen {
+  background-color: #9b59b6;
+}
